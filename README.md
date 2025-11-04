@@ -99,5 +99,7 @@ The backend exposes simple RESTful endpoints for learning Docker communication. 
     -H "Content-Type: application/json" \
    -d '{"message":"Hello Backend!"}'
   ```
-
+  
+  <img width="1467" height="688" alt="Screenshot 2025-11-05 001334" src="https://github.com/user-attachments/assets/283d822f-87db-4ebb-aa54-a112e7d854e2" />
+  
 The frontend (React app) consumes these endpoints via fetch for displaying and adding items.
